@@ -1,5 +1,5 @@
 ![logo](https://github.com/AqeelAsghar/Reactjs/blob/main/Screen%20Shot%202022-10-02%20at%206.06.12%20PM.png)
-# Getting Started with Create React App
+# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
